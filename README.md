@@ -4,7 +4,7 @@ _Um Web App responsivo construído como projeto de estudo e avaliação, com foc
 
 <br>
 
-![Pokédex App Demo](URL_DO_SEU_GIF_OU_IMAGEM_AQUI)
+![Pokédex App Demo]
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -77,9 +77,10 @@ Para rodar os testes unitários e verificar a integridade dos serviços, execute
 ng test
 ```
 
-## 📫 Contato (43) 99619-7850
+## 📫 Contato 
 
 **Bruno Victorino Martins**
 
 -   LinkedIn: [https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/SEU_LINKEDIN/)
 -   Email: SEU_EMAIL@exemplo.com
+-   (43) 99619-7850 (Wpp)
